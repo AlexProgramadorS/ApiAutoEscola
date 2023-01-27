@@ -4,13 +4,13 @@
 ### :computer: SOBRE O PROJETO:
 <p> Foi proposto o desenvolvimento de um servidor Json (JSON-SERVER) que tivesse três (ou mais) rotas, onde as entidades utilizadas deveriam possuir quatro (ou mais) atributos. O Json-Server deve ser funcional sendo capaz de acessar dados HTTP <b>(GET)</b>, inserir <b>(POST)</b>, alterar <b>(PUT)</b> e excluir <b>(DELETE)</b> informações presentes em todas as suas rotas. </p>
 
-### :books: TEMA:
-<p> Para a realização do projeto o tema escolhido foi Livraria. o Projeto possui quatro rotas representando os gêneros e categorias de livros, onde cada uma possui quatro dados pré-preenchidos (mockados). <br><br><b>AS ROTAS:</b>
+### :red_car: TEMA:
+<p> Para a realização do projeto o tema escolhido foi Autoescola. o Projeto possui 3 rotas, onde cada uma possui quatro dados pré-preenchidos (mockados). <br><br><b>AS ROTAS:</b>
 <ul>
-<li><b>Artes</b></li>
-<li><b>Religião e espiritualidade</b> </li>
-<li><b>HQ's</b></li>
-<li><b>Biografia</b></li>
+<li><b>Orçamento</b></li>
+<li><b>Alunos</b> </li>
+<li><b>Aulas</b></li>
+
 </ul>
 
 ### :toolbox: TECNOLOGIAS USADAS:
