@@ -1,0 +1,94 @@
+{
+  "alunos":[
+    {
+      "id":1,
+      "cpf":903849384,
+      "nome": "Simone"
+      
+    },
+    {
+      "id":2,
+      "cpf":903849384,
+      "nome": "Abel"
+    }
+  ],
+  
+  "AulasTeoricas": [
+    {
+      "aula": "Legislação de Trânsito",
+      "dia": "Segunda-feira",
+      "instrutor": "Rodrigo",
+      "duração": "18 horas aula",
+      "id": 1
+    },
+    {
+      "aula": "Direção Defensiva",
+      "dia": "Terça-feira",
+      "instrutor": "Rodrigo",
+      "duração": "16 horas aula",
+      "id": 2
+    },
+    {
+      "aula": "Noção de Primeiros Socorros",
+      "dia": "Quarta-feira",
+      "instrutor": "Rodrigo",
+      "duração": "4 horas aula",
+      "id": 3
+    },
+    {
+      "aula": "Noção de Proteção e Respeito ao Meio Ambiente e do Convívio Social no Trânsito",
+      "dia": "Quinta-feira",
+      "instrutor": "Rodrigo",
+      "duração": "4 horas aula",
+      "id": 4
+    },
+    {
+      "aula": "Noção sobre Funcionamento de Veículo",
+      "dia": "Sexta-feira",
+      "instrutor": "Rodrigo",
+      "duração": "3 horas aula",
+      "id": 5
+    }
+  ],
+  "Orcamento": [
+    
+  {
+    "id": 1,
+    "nome": "Categoria A",
+    "descrição": "Curso indicado para o condutor de veículo motorizado de duas ou três rodas.",
+    "preco": 4000,
+    "pagamento": "à vista"
+  },
+  {
+    "id": 2,
+    "nome": "Categoria B",
+    "descrição": "Curso indicado para quem quer se tornar um condutor de veículo motorizado cujo peso bruto total não exceda a 3500 Kg e cuja lotação não exceda a oito lugares, excluído o do motorista.",
+    "preco": 4000,
+    "pagamento": "à vista"
+  },
+    
+  {
+    "id": 3,
+    "nome": "Reciclagem",
+    "descrição": "O curso tem como objetivo de reeducar o condutor que tenha sofrido a penalidade de suspensão do direito de dirigir.",
+    "preco": 4000,
+    "pagamento": "à vista"
+  },
+  {
+    "id": 4,
+    "nome": "Renovação",
+    "descrição": "Prestamos todos os serviços necessários para a renovação de sua Carteira Nacional Habilitação / CNH.",
+    "preco": 4000,
+    "pagamento": "à vista"
+  },
+  {
+    "id": 5,
+    "nome": "Inclusão de Categoria",
+    "descrição": "Alteração ou Inclusão de Categoria os condutores ou aqueles que possuam a Permissão para Dirigir, desde que não tenham cometido infração grave, gravíssima ou sejam reincidentes em infrações médias, nos doze meses anteriores à solicitação.",
+    "preco": 4000,
+    "pagamento": "à vista"
+  }
+
+
+  ]
+}
